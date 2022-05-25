@@ -1,1 +1,1 @@
-# Car-Insurance-Fraud-Classifier :)
+# Car-Insurance-Fraud-Detector :)
