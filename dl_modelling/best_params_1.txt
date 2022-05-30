@@ -1,0 +1,23 @@
+'activation': 'relu',
+'hidden_layer_sizes': (128, 64, 32, 16),
+'learning_rate': 'constant',
+'solver': 'adam'
+
+SCORE: 0.54486
+
+
+'activation': 'relu',
+'hidden_layer_sizes': (256, 256, 128),
+'learning_rate': 'constant',
+'solver': 'adam'
+
+SCORE: 0.552
+
+
+'activation': 'tanh',
+'alpha': 0.0001,
+'hidden_layer_sizes': (64,),
+'learning_rate': 'adaptive',
+'solver': 'adam'
+
+SCORE: 0.55576
